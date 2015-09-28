@@ -1,0 +1,40 @@
+h2 {
+  text-align: center;
+  font-family: Impact, fantasy;
+  font-size: 3em;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+#description {
+  margin-top: 3em;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5em;
+}
+#buttonrow {
+  margin-top: 3em;
+  text-align: center;
+}
+#quote {
+  margin-top: 3em;
+  font-family: "Times New Roman", Times, serif;
+}
+html, body {
+  overflow-x: hidden;
+  background: url("http://i.imgur.com/F5dhs9h.jpg");
+}
+
+.quotetxt {
+  font-family: "Times New Roman", Times, Serif;
+  font-size: 1.5em;
+  font-style: oblique;
+}
+#quotebtn {
+  -webkit-border-radius: 1.5em;
+  -moz-border-radius: 1.5em;
+  border-radius: 1.5em;
+}
+#tweetbtn {
+  -webkit-border-radius: 1.5em;
+  -moz-border-radius: 1.5em;
+  border-radius: 1.5em;
+}
